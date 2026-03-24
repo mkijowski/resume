@@ -110,5 +110,5 @@ hardware and software requirements.
  
 **Education**
  
-**B.S. in Mechanical Engineering** \| Wright State University, 2008
+-   **B.S. in Mechanical Engineering** \| Wright State University, 2008
 ---
