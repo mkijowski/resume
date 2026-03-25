@@ -1,6 +1,9 @@
 # Matthew Kijowski
 ### matthewkijowski@gmail.com
+### github.com/mkijowski
+
 ---
+
 #### Qualifications Summary 
 Results-driven senior computer systems professional with 17+ years of
 experience in higher education technology. Proven track record leading
