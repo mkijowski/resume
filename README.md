@@ -12,9 +12,9 @@ and cybersecurity to lab safety and budget management.
 
 #### Skills Include
 
-Linux \| Bash \| Python \| PHP \| Git / GitHub \| C++ \| MySQL \|
-Virtualization (VMware) \| HPC / Singularity \| Docker \| AWS /
-CloudFormation \| Apache \| Machine Learning \| Cyber Security \| PCB
+Linux / Bash \| Python \| Web (PHP / SQL) \| Git / GitHub \| C++ \| SQL \|
+Virtualization (VMware) \| HPC / GPU Computing | Containers (Singularity / Docker) 
+\| AWS / CloudFormation \| AI Agents / Machine Learning \| Cyber Security \| PCB
 Design & Fabrication \| CMMC Compliance \| Agile / Scrum
  
 #### Work Experience
