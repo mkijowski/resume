@@ -5,6 +5,7 @@
 ---
 
 #### Qualifications Summary 
+
 Results-driven senior computer systems professional with 17+ years of
 experience in higher education technology. Proven track record leading
 complex infrastructure projects, managing HPC resources, coordinating
@@ -15,12 +16,13 @@ and cybersecurity to lab safety and budget management.
 
 #### Skills Include
 
-Linux / Bash \| Python \| Web (PHP / SQL) \| Git / GitHub \| C++ \| SQL \|
+Linux | Python \| Web (PHP / SQL) \| Git / GitHub \| C++ \| SQL \|
 Virtualization (VMware) \| HPC / GPU Computing | Containers (Singularity / Docker) 
 \| AWS / CloudFormation \| AI Agents / Machine Learning \| Cyber Security \| PCB
-Design & Fabrication \| CMMC Compliance \| Agile / Scrum
+Design & Fabrication  \| Electronics Xray inspection \| CMMC Compliance \| Agile / Scrum
  
 #### Work Experience
+
 **Wright State University** --- ***Cyber Systems Program Manager*** \| 2008 -- Present
  
 Lead systems administrator for the Wright State University Computer
@@ -105,13 +107,12 @@ hardware and software requirements.
     input.
  
 -   Supervise student teams managing the department website; participate
-    in student recruitment, hiring, and training with a staff of up to
-    5.
+    in student recruitment, hiring, and training.
  
 -   Plan and oversee classroom and facilities renovation projects from
     scoping through completion.
  
-**Education**
- 
+**Education** 
+
 -   **B.S. in Mechanical Engineering** \| Wright State University, 2008
----
+
